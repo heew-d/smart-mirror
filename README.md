@@ -9,5 +9,5 @@
 ![판넬이미지](https://user-images.githubusercontent.com/91947795/212639397-2df69d34-4d5a-4c9c-b0f4-c2a66a9d9e3b.PNG)
 
 
-[영상](#smartmirror.mp4)
+[영상](../smartmirror.mp4)
 - 크기 문제로 다운로드 후에 봐주시길 바랍니다.
